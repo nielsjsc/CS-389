@@ -1,0 +1,5 @@
+This is the first learning assignment. 
+
+This program, named randgen, takes user input of a list length and random seed, then creates a list of random numbers between 0 and 99, and averages them.
+
+To build, simply use the "make" command, which will compile and build a randgen executable. 
