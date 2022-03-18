@@ -1,0 +1,1 @@
+Use make to compile the code. It will give you Benchmark.exe, which can be ran to print the time to read a byte of memory. 
